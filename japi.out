@@ -1,0 +1,90 @@
+/usr/local/bin/python3.9 /Users/alexho/Sites/python/ift458/project5/main.py
+Enter a stock symbol. To escape, type "quit".
+AAPL
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "134.3500",
+        "03. high": "135.5300",
+        "04. low": "133.6921",
+        "05. price": "135.3700",
+        "06. volume": "60145130",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "135.1300",
+        "09. change": "0.2400",
+        "10. change percent": "0.1776%"
+    }
+}
+The current price of AAPL is: 135.3700
+Enter a stock symbol. To escape, type "quit".
+AMZN
+{
+    "Global Quote": {
+        "01. symbol": "AMZN",
+        "02. open": "3250.0000",
+        "03. high": "3280.2500",
+        "04. low": "3233.3100",
+        "05. price": "3277.7100",
+        "06. volume": "2335339",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "3262.1300",
+        "09. change": "15.5800",
+        "10. change percent": "0.4776%"
+    }
+}
+The current price of AMZN is: 3277.7100
+Enter a stock symbol. To escape, type "quit".
+GOOG
+{
+    "Global Quote": {
+        "01. symbol": "GOOG",
+        "02. open": "2090.2500",
+        "03. high": "2108.8200",
+        "04. low": "2083.1300",
+        "05. price": "2104.1100",
+        "06. volume": "855865",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "2095.8900",
+        "09. change": "8.2200",
+        "10. change percent": "0.3922%"
+    }
+}
+The current price of GOOG is: 2104.1100
+Enter a stock symbol. To escape, type "quit".
+MSFT
+{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "243.9332",
+        "03. high": "245.3000",
+        "04. low": "242.7300",
+        "05. price": "244.9900",
+        "06. volume": "16561079",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "244.4900",
+        "09. change": "0.5000",
+        "10. change percent": "0.2045%"
+    }
+}
+The current price of MSFT is: 244.9900
+Enter a stock symbol. To escape, type "quit".
+TSLA
+{
+    "Global Quote": {
+        "01. symbol": "TSLA",
+        "02. open": "801.2600",
+        "03. high": "817.3300",
+        "04. low": "785.3306",
+        "05. price": "816.1200",
+        "06. volume": "23768313",
+        "07. latest trading day": "2021-02-12",
+        "08. previous close": "811.6600",
+        "09. change": "4.4600",
+        "10. change percent": "0.5495%"
+    }
+}
+The current price of TSLA is: 816.1200
+Enter a stock symbol. To escape, type "quit".
+quit
+
+Process finished with exit code 0
